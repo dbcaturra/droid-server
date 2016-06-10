@@ -1,0 +1,2 @@
+sh /data/data/com.hipipal.qpyplus/files/bin/qpython-android5.sh /data/data/com.hipipal.qpyplus/files/bin/pip_console.py
+pip install -r requirements.txt
