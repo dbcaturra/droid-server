@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 am start -a android.media.action.VIDEO_CAPTURE
 input keyevent 27
 sleep 30s

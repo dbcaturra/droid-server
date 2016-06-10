@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #Perform in boot behavior
 clear				# clear terminal window
 echo "The script starts now."
